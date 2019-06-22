@@ -1,0 +1,12 @@
+META-INF/CompilerHints
+org/apache/dubbo/benchmark/generated/Client_getUser_jmhTest.class
+org/apache/dubbo/Client.class
+org/apache/dubbo/benchmark/generated/Client_listUser_jmhTest.class
+org/apache/dubbo/benchmark/generated/Client_jmhType_B1.class
+org/apache/dubbo/benchmark/Client.class
+org/apache/dubbo/benchmark/generated/Client_jmhType_B3.class
+org/apache/dubbo/benchmark/generated/Client_jmhType_B2.class
+org/apache/dubbo/benchmark/generated/Client_jmhType.class
+org/apache/dubbo/benchmark/generated/Client_existUser_jmhTest.class
+org/apache/dubbo/benchmark/generated/Client_createUser_jmhTest.class
+META-INF/BenchmarkList

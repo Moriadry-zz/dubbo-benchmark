@@ -1,0 +1,6 @@
+org/apache/dubbo/benchmark/bean/User.class
+org/apache/dubbo/benchmark/bean/Page.class
+org/apache/dubbo/benchmark/service/UserService.class
+org/apache/dubbo/benchmark/service/UserServiceServerImpl.class
+org/apache/dubbo/benchmark/rpc/AbstractClient.class
+org/apache/dubbo/benchmark/serialize/SerializationOptimizerImpl.class
